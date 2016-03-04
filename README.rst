@@ -35,5 +35,5 @@ it can be used directly, for example to run a Jupyter server:
     echo "c.NotebookApp.ip = '*'" > ~/.jupyter/jupyter_notebook_config.py 
     /env/bin/jupyter-notebook
 
-.. Docker: https://docs.docker.com/engine/installation/
-.. Jupyter: http://jupyter-notebook.readthedocs.org/en/latest/
+.. _Docker: https://docs.docker.com/engine/installation/
+.. _Jupyter: http://jupyter-notebook.readthedocs.org/en/latest/
